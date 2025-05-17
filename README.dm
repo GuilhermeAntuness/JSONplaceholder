@@ -22,5 +22,5 @@ Este é um projeto simples em Python que simula um sistema de postagens de usuá
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
+   git clone https://github.com/GuilhermeAntunes/JSONplaceholder.git
    cd nome-do-repositorio
